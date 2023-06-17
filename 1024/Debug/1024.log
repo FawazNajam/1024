@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  main.cpp
+D:\Visual Studio Source Files\1024\1024\main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  1024.vcxproj -> D:\Visual Studio Source Files\1024\Debug\1024.exe
